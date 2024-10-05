@@ -17,6 +17,8 @@ h1, h2, h3, h4, h5, h6{
 h1{
     font-size: 100px;
     margin: 0px 25px;
+    transform: rotate(3deg);
+    color: white;
 }
 h2{
     font-size: 30px;
